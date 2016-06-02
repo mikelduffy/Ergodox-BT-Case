@@ -1,6 +1,6 @@
-# Ergodox-BT
+# Ergodox-BT Case
 
-This repository contains the design files (CAD and EPS) for a customized ErgoDox keyboard case laser cut with acrylic. It is based on Litster's [full-hand ErgoDox Acrylic Case](https://github.com/bishboria/ErgoDox/tree/master/ErgoDox%20Acrylic%20Case).
+This repository contains the design files (CAD and EPS) for a customized ErgoDox keyboard case laser cut with acrylic. It is based on [Litster's full-hand ErgoDox Acrylic Case](https://github.com/bishboria/ErgoDox/tree/master/ErgoDox%20Acrylic%20Case).
 
 ##Additional Features
 
